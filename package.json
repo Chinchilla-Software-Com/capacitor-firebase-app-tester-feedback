@@ -18,7 +18,8 @@
     "keywords": [
         "capacitor",
         "plugin",
-        "native"
+        "native",
+        "firebase"
     ],
     "scripts": {
         "verify": "npm run verify:ios && npm run verify:android && npm run verify:web",
